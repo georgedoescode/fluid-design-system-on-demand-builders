@@ -1,0 +1,24 @@
+{
+  "name": "fluid-design-system-netlify-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@netlify/functions": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgedoescode/fluid-design-system-on-demand-builders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgedoescode/fluid-design-system-on-demand-builders/issues"
+  },
+  "homepage": "https://github.com/georgedoescode/fluid-design-system-on-demand-builders#readme"
+}
