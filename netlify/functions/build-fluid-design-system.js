@@ -202,9 +202,7 @@ async function handler(event, context) {
       "-XL": "-2XL",
       "-2XL": "-3XL",
     },
-    customPairs: {
-      "-S": "-L",
-    },
+    customPairs: {},
   });
 
   return {
